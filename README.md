@@ -14,5 +14,6 @@ Find Your Way është një platformë web që ndihmon njerëzit të gjejnë vend
 ✔️ Filtrimi i vendeve të punës sipas kritereve të ndryshme
 
 🔗 Qasja dhe përdorimi
+
 Përdoruesit mund të eksplorojnë dhe të aplikojnë për vende pune përmes një ndërfaqeje të thjeshtë dhe intuitive.
  
